@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: easypreprocessing
+Version: 1.0.0
+Summary: An easy to use pre-processing utility for machine learning.
+Home-page: UNKNOWN
+Author: Shreyas Kudav
+Author-email: shreyaskudav@gmail.com
+License: MIT
+Keywords: machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+EasyPreProcessing is a Python module that comprises of data pre-processing helper functions mainly for the purpose of data science and machine learning.
+
+The module is still under-developement.
+
+Change Log
+==========
+
+0.0.1 (30/08/2021)
+-----------------------
+- First Release
+

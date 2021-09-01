@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README
+easypreprocessing.py
+setup.py
+easypreprocessing.egg-info/PKG-INFO
+easypreprocessing.egg-info/SOURCES.txt
+easypreprocessing.egg-info/dependency_links.txt
+easypreprocessing.egg-info/entry_points.txt
+easypreprocessing.egg-info/requires.txt
+easypreprocessing.egg-info/top_level.txt
