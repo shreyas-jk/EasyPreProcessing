@@ -1,13 +1,6 @@
 
 
-<h2 align="center">Data PreProcessing</h3>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
-</div>
-
+<h2 align="center">Data PreProcessing</h2>
 ---
 
 <p align="center"> EasyPreProcessing is a Python module that comprises of data pre-processing helper functions mainly for the purpose of data science and machine learning.
