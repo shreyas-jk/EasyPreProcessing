@@ -1,5 +1,9 @@
 from setuptools import setup, find_packages
- 
+
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
 classifiers = [
   'Development Status :: 1 - Planning',
   'Intended Audience :: Developers',
@@ -10,9 +14,10 @@ classifiers = [
  
 setup(
   name='easypreprocessing',
-  version='1.0.0',
+  version='1.0.3',
   description='An easy to use pre-processing utility for machine learning.',
-  long_description=open('README').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=long_description,
+  long_description_content_type="text/markdown",
   url='',  
   author='Shreyas Kudav',
   author_email='shreyaskudav@gmail.com',
