@@ -374,5 +374,3 @@ class CategoryFeatures():
 def printmd(string):
     display(Markdown(string))
 
-
-
