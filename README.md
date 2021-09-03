@@ -19,13 +19,13 @@ Many of the common machine learning activities that are performed during the Fea
 # Installing
 
 Just a simple
-```
+```bash
 pip install easypreprocessing
 ```
 
 For details regarding all the functionality available:
 
-```
+```bash
 from easypreprocessing import EasyPreProcessing
 prep = EasyPreProcessing('filename.csv')
 prep.info()
@@ -35,7 +35,7 @@ prep.info()
 
 Below you can see a sample code of preprocessing using this library.
 
-```
+```bash
 from easypreprocessing import EasyPreProcessing
 prep = EasyPreProcessing('filename_here.csv')
 prep.output = 'output_variable_here'
